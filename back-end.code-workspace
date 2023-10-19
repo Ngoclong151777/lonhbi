@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../back-end"
+		},
+		{
+			"path": "../demo"
+		},
+		{
+			"name": "react-acc-demo-1",
+			"path": "../react-acc-demo-1"
+		}
+	]
+}
